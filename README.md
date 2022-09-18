@@ -4,7 +4,10 @@ hii i am priyali
 
 * I am interested in learning data science and other technologies related to programing
 
-* I have done my graduation in BCA (Bachelor of computer Application)
+* I have done my graduation in BCA 
+(Bachelor of computer Application)
+
+
 
 * I have basic knowledge of C language , Data analysis , and Excel
 
